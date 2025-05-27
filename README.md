@@ -78,13 +78,6 @@ The goal of this project is to build a simulated enterprise IT environment that 
 
 ---
 
-## 📝 Authors
-
-- **Ambra Nastini**
-- **Evangelos Mileounis**
-
----
-
 ## 📄 License
 
 This project is open for educational and non-commercial use.
